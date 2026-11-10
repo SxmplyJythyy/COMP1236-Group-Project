@@ -1,4 +1,3 @@
-
 #!/bin/bash
 
 # [START] Application begins
